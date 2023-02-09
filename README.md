@@ -2,6 +2,9 @@
 
 I recently graduated from University of California, San Diego with a degree in Cognitive Science specializing in Machine Learning and Neural Computation. In the future, I aspire to be a data scientist / machine learning engineer at a company aiming to improve people's daily lives.
 
+Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 <!--
 **jungsoolee123/jungsoolee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
