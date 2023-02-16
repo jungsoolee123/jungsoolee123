@@ -8,6 +8,7 @@ Python Skills
   <img src="https://img.shields.io/badge/Pandas-1504581?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+   <img src="https://img.shields.io/badge/BeautifulSoup-512db4?style=flat-square&logo=beautifulsoup&logoColor=white"/>
 </p>
 Others
 <p>
