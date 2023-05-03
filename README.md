@@ -1,10 +1,14 @@
-## Hi there 👋
+# Hi there 👋 
 
-  ####    I recently graduated from University of California, San Diego with a degree in Cognitive Science specializing in Machine Learning and Neural Computation. In the future, I aspire to be a data scientist / machine learning engineer at a company aiming to improve people's daily lives.
-<br>
-Python Skills
 <p>
-  Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Pytorch
+  <br>
+    I recently graduated from University of California, San Diego with a degree in Cognitive Science specializing in Machine Learning and Neural Computation. I aspire to be a data scientist who contributes to improve society on various sectors such as public policy, education, healthcare by applying computational and statistical analysis. To cultivate my skills to analyze data and to build predictive model, I constantly work on side projects in related fields and update on my github repository. Please check out my repositories and message me to give some feedbacks. 
+</p>
+
+<br>
+<b>Python Skills</b>
+<p>
+  Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Pytorch, BeautifulSoup
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-1504581?style=flat-square&logo=pandas&logoColor=white"/>
@@ -14,9 +18,9 @@ Python Skills
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/BeautifulSoup-512db4?style=flat-square&logo=beautifulsoup&logoColor=white"/> -->
 </p>
-Others
+<b>Others</b>
 <p>
-  SQL Tableau Java MATLAB JavaScript HTML AWS Spark Hadoop Excel R SAS 
+  SQL, Tableau, Java, MATLAB, JavaScript, HTML, CSS, AWS, Azure, Spark, Hadoop, Excel, R, SAS
 <!--   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Java-886cc4?style=flat-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
