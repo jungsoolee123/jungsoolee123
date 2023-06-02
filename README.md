@@ -6,6 +6,7 @@ I recently graduated from University of California, San Diego with a degree in C
 
 I believe the use of data can foster positive social impact. I aspire to be a data anlyst/ data scientist who use the knowledge of data science and artificial intelligence positively to benefit equitably people all over the world.
 
+Kaggle: https://www.kaggle.com/jungsooaimeelee
 Tableau: https://public.tableau.com/app/profile/jungsoo.lee
 </p>
 <b>Python Skills</b>
